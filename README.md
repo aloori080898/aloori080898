@@ -1,1 +1,2 @@
-Amazon sales dataset
+Amazon sales data
+
